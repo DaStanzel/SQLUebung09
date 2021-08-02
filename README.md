@@ -77,7 +77,7 @@ what locking mechanisms does Oracle use?
   </tr>
 </table>
 
- 7. simulatetheInconsistentAnalysisProblem!
+ 7. simulate the Inconsistent Analysis Problem!
 <table>
   <tr><th>User A</th><th>User B</th></tr>
   <tr>
