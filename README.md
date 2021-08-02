@@ -30,8 +30,10 @@ Perform the following exercises in teams of 2!
 </table>
 a) Is this processing sequence feasible?
 b) Modify the example so that User B changes another record. Consider-
-what locking mechanisms does Oracle use? 5.
+what locking mechanisms does Oracle use? 
+
 5) Determine how the system reacts when both transactions insert the same record (with and without PRIMARY KEY).
+
 6. reproduce the following situation: 
 <table>
   <tr><th>User A</th><th>User B</th></tr>
