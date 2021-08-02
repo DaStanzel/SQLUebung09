@@ -85,9 +85,10 @@ what locking mechanisms does Oracle use?
     <td></td>
   </tr>
   <tr>
-    <td>Update record C</td>
-    <td>
+   <td>
     </td>
+    <td>Update record C</td>
+    
   </tr>
     <tr>
     <td>read record B
