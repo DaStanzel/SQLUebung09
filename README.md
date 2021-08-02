@@ -29,6 +29,7 @@ Perform the following exercises in teams of 2!
   </tr>
 </table>
 a) Is this processing sequence feasible?
+
 b) Modify the example so that User B changes another record. Consider-
 what locking mechanisms does Oracle use? 
 
@@ -115,13 +116,17 @@ what locking mechanisms does Oracle use?
    </td>
   </tr>
 </table>
+Modify the example in such a way that for user A the condition of the data sets A, B and C of a certain time is indicated!
 
-              Modify the example in such a way that for user A the condition of the data sets A, B and C of a certain time is indicated!
 8.
 - User A selects a dataset according to a certain criterion.
+
 - User B changes the criterion according to which the selection was made.
+
 - User A changes a value in the previously selected data set.
+
 What happens? What could be done so that between selection and change exactly this selected record cannot be changed by another user?
+
 9.
 - User B creates a table with a foreign key that references User A's table.
 - User A should now revoke the right that user B can set a reference to his table.
